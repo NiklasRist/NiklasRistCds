@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiklasRist
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning GDScript
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ...
 
