@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @NiklasRist
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me ...
-
-<!---
-NiklasRist/NiklasRist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Backend-focused Software Engineer (CS Student)
+Java (Spring Boot) · Python (FastAPI) · PostgreSQL · Docker · CI/CD · Vite/React · Figma
+Backend-first, DevOps-oriented, able to ship end-to-end features with minimal, user-friendly UIs
